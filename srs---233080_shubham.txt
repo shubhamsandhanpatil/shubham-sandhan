@@ -1,0 +1,101 @@
+Title:KrushiKendra.com
+
+Krushi Kendra System - Software Requirements Specification (SRS)
+
+1. Introduction
+The KrushiKendra.com is a web-based application that aims to provide a digital platform for farmers and agricultural stakeholders to access information, services, and resources related to agriculture. The system will provide a knowledge hub, facilitating communication and collaboration among farmers, experts, and government organizations to enhance agricultural practices and productivity.
+krushikendra.com has more than 2000+ products to choose from,with th philosophy of "right product at right time" delivered at home.
+all the querries of farmers are taken care by the dedicated call centre.
+itv implements free toll free numnber also has chat facility where the farmers can be in touch with agri-experts.
+
+2. Scope
+The Krushi Kendra System will provide the following functionalities:
+
+Farmer registration and authentication.
+Access to agricultural information, news, and updates.
+Crop and livestock management guidance.
+Weather information and forecasts.
+Market prices and trade information.
+Access to government schemes, subsidies, and loans.
+
+
+Bussiness Entities:
+1.Farmers 
+2.Experts 
+3.Article 
+4.Crops
+5.Live Stock
+6.Weather
+7.Government Schemes
+8.Market 
+9.Traning Resources
+
+
+
+3. Functional Requirements
+
+1 Farmer Registration and Authentication
+Farmers will be able to create an account by providing their personal details such as name, contact informations, and location.
+The system will validate and authenticate farmers' accounts during registration and login.
+
+2 Agricultural Information and Updates
+The system will provide access to a wide range of agricultural information, including crop cultivation techniques, pest control measures, fertilizer usage, etc.
+Farmers will be able to browse and search for relevant articles, and research papers related to agriculture.
+The system will allow farmers to subscribe to receive regular updates and news.
+
+3 Crop and Livestock Management
+The system will provide guidance on crop selection, planting schedules, irrigation methods, and harvesting practices based on the farmer's location and other relevant factors.
+Farmers will be able to record and monitor crop-related activities such as fertilization, pest control, and yield management.
+The system will provide information and best practices for livestock management, including feeding, breeding, and healthcare.
+
+4 Weather Information and Forecasts
+The system will have weather APIs to provide real-time weather information, including temperature, rainfall, humidity, and wind conditions.
+Farmers will be able to view weather forecasts for their specific location .
+
+5 Market Prices and Trade Information
+The system will provide farmers with access to market prices for various agricultural commodities.
+
+
+6 Government Schemes and Subsidies
+The system will provide information on government agricultural schemes, subsidies, loans, and support programs.
+Farmers will be able to access eligibility criteria, application procedures, and documentation requirements for various schemes.
+
+7 Communication and Collaboration Features
+The system will communicate and collaborate among farmers, experts, and government officials through variousd ways, chat features, and whatsapp  groups.
+Farmers will be able to ask advice, share experiences, and connect with agricultural experts. 
+
+8 Online Training and Learning Resources
+The system will provide access to online training modules, videos, and educational resources related to agriculture.
+Farmers will be able to enhance their knowledge and skills from various  training programs.
+
+ Non-Functional Requirements
+
+1 Usability
+The system will have an user-friendly interface.
+It should be accessible and usable on both desktop and mobile devices.
+
+2 Security and privacy
+User data will be stored securely and protected .
+The system will implement proper authentication and authorization method.
+
+3 Performance
+The system will be able to handle
+a large number of concurrent users and provide responsive performance.
+Data retrieval, search, and information updates should be fast and efficient.
+
+4 Reliability
+The system will be highly reliable and available for farmers to access information and services at all times.
+It will have appropriate backup and disaster recovery mechanisms.
+
+5 Scalability
+The system architecture will support scalability to accommodate increasing user and data demands.
+It should be able to handle future growth and additional features.
+
+
+
+
+
+
+
+
+
